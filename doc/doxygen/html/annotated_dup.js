@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "Autor", "class_autor.html", "class_autor" ],
+    [ "AutorModel", "class_autor_model.html", "class_autor_model" ],
+    [ "Conexion", "class_conexion.html", "class_conexion" ],
+    [ "Configuracion", "class_configuracion.html", "class_configuracion" ],
+    [ "ConfiguracionModel", "class_configuracion_model.html", "class_configuracion_model" ],
+    [ "Controller", "class_controller.html", "class_controller" ],
+    [ "Editorial", "class_editorial.html", "class_editorial" ],
+    [ "EditorialModel", "class_editorial_model.html", "class_editorial_model" ],
+    [ "Estudiantes", "class_estudiantes.html", "class_estudiantes" ],
+    [ "EstudiantesModel", "class_estudiantes_model.html", "class_estudiantes_model" ],
+    [ "FPDF", "class_f_p_d_f.html", "class_f_p_d_f" ],
+    [ "Home", "class_home.html", "class_home" ],
+    [ "HomeModel", "class_home_model.html", "class_home_model" ],
+    [ "Libros", "class_libros.html", "class_libros" ],
+    [ "LibrosModel", "class_libros_model.html", "class_libros_model" ],
+    [ "Materia", "class_materia.html", "class_materia" ],
+    [ "MateriaModel", "class_materia_model.html", "class_materia_model" ],
+    [ "Prestamos", "class_prestamos.html", "class_prestamos" ],
+    [ "PrestamosModel", "class_prestamos_model.html", "class_prestamos_model" ],
+    [ "Query", "class_query.html", "class_query" ],
+    [ "TTFParser", "class_t_t_f_parser.html", "class_t_t_f_parser" ],
+    [ "Usuarios", "class_usuarios.html", "class_usuarios" ],
+    [ "UsuariosModel", "class_usuarios_model.html", "class_usuarios_model" ],
+    [ "Views", "class_views.html", "class_views" ]
+];

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['editar_0',['editar',['../class_autor.html#a399b37729bdaca122345a17794f0fcb7',1,'Autor\\editar()'],['../class_editorial.html#a399b37729bdaca122345a17794f0fcb7',1,'Editorial\\editar()'],['../class_estudiantes.html#a399b37729bdaca122345a17794f0fcb7',1,'Estudiantes\\editar()'],['../class_libros.html#a399b37729bdaca122345a17794f0fcb7',1,'Libros\\editar()'],['../class_materia.html#a399b37729bdaca122345a17794f0fcb7',1,'Materia\\editar()'],['../class_usuarios.html#aaab16e9679ec2eeef6a0ea7bf00f0037',1,'Usuarios\\editar()']]],
+  ['editaruser_1',['editarUser',['../class_usuarios_model.html#a22e3e95f581b239e527308e08927ece3',1,'UsuariosModel']]],
+  ['editautor_2',['editAutor',['../class_autor_model.html#add85970edf3af64592096530850d2e66',1,'AutorModel']]],
+  ['editeditorial_3',['editEditorial',['../class_editorial_model.html#a7c9675fa619c72a269fe90cc76d4913b',1,'EditorialModel']]],
+  ['editestudiante_4',['editEstudiante',['../class_estudiantes_model.html#a64331acf5e980729b2cda9609b2839a2',1,'EstudiantesModel']]],
+  ['editlibros_5',['editLibros',['../class_libros_model.html#a324f0f064209eabb6848385c1c4281bf',1,'LibrosModel']]],
+  ['editmateria_6',['editMateria',['../class_materia_model.html#a77df20d107d58ceb658aec80c6122ddc',1,'MateriaModel']]],
+  ['eliminar_7',['eliminar',['../class_autor.html#a8aeb1b80bd7d0f4bb1137b1ae0c81a3d',1,'Autor\\eliminar()'],['../class_editorial.html#a8aeb1b80bd7d0f4bb1137b1ae0c81a3d',1,'Editorial\\eliminar()'],['../class_estudiantes.html#a8aeb1b80bd7d0f4bb1137b1ae0c81a3d',1,'Estudiantes\\eliminar()'],['../class_libros.html#a8aeb1b80bd7d0f4bb1137b1ae0c81a3d',1,'Libros\\eliminar()'],['../class_materia.html#a8aeb1b80bd7d0f4bb1137b1ae0c81a3d',1,'Materia\\eliminar()'],['../class_usuarios.html#ad9dd1248590702cce7f273efb0efe0d9',1,'Usuarios\\eliminar()']]],
+  ['entregar_8',['entregar',['../class_prestamos.html#afcf612bb0dee41bba078bb2b62251b10',1,'Prestamos']]],
+  ['error_9',['Error',['../class_f_p_d_f.html#a5afab85a7aaf19395f9a0e86cae76928',1,'FPDF\\Error()'],['../class_t_t_f_parser.html#a5afab85a7aaf19395f9a0e86cae76928',1,'TTFParser\\Error()'],['../makefont_8php.html#a8fb508c3ca3ccca6f318cb26631edfd4',1,'Error():&#160;makefont.php']]],
+  ['error_10',['error',['../class_configuracion.html#a43b8d30b879d4f09ceb059b02af2bc02',1,'Configuracion']]],
+  ['estadoautor_11',['estadoAutor',['../class_autor_model.html#aa62362b683193e502fb9e72167419d32',1,'AutorModel']]],
+  ['estadoeditorial_12',['estadoEditorial',['../class_editorial_model.html#a1709c1b7930b635f2777dd414fe9cc7f',1,'EditorialModel']]],
+  ['estadoestudiante_13',['estadoEstudiante',['../class_estudiantes_model.html#abf6dd9051574784b18d61852477bf9a8',1,'EstudiantesModel']]],
+  ['estadolibros_14',['estadoLibros',['../class_libros_model.html#a045a3fbb0629d0b44c6b6ec445227b1b',1,'LibrosModel']]],
+  ['estadomateria_15',['estadoMateria',['../class_materia_model.html#a36e481ad33619c5eea95a5f907b4052d',1,'MateriaModel']]]
+];

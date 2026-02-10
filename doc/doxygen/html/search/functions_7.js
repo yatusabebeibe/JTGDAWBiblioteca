@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['getautor_0',['getAutor',['../class_autor_model.html#a4676de4e67e6807ff5a95a8e4abb48d0',1,'AutorModel']]],
+  ['getcantlibro_1',['getCantLibro',['../class_prestamos_model.html#aba0ebf6cdb9ab85cac558824a93c6f3b',1,'PrestamosModel']]],
+  ['getdetallepermisos_2',['getDetallePermisos',['../class_usuarios_model.html#a47b349b5557d5e5947848bfc10b122ed',1,'UsuariosModel']]],
+  ['geteditorial_3',['getEditorial',['../class_editorial_model.html#ae59ea4c688197bee3c2fe6953a8afa84',1,'EditorialModel']]],
+  ['getestudiantes_4',['getEstudiantes',['../class_estudiantes_model.html#ad3b7fe1b9c1151449c5b7d9d81afb0f6',1,'EstudiantesModel']]],
+  ['getinfofromtruetype_5',['GetInfoFromTrueType',['../makefont_8php.html#a2316f5fcce6f314ed2eb4fc3426c0c4a',1,'makefont.php']]],
+  ['getinfofromtype1_6',['GetInfoFromType1',['../makefont_8php.html#a4dee0951be5f4f2e9333a709eca3096a',1,'makefont.php']]],
+  ['getlibros_7',['getLibros',['../class_libros_model.html#a700c4a429007d516372180df1d19e287',1,'LibrosModel']]],
+  ['getmaterias_8',['getMaterias',['../class_materia_model.html#a6d832b9cdb6930aa5864ee7bd7ec7cf6',1,'MateriaModel']]],
+  ['getpageheight_9',['GetPageHeight',['../class_f_p_d_f.html#a8122be45d3d5d702fbf1041380e8a26c',1,'FPDF']]],
+  ['getpagewidth_10',['GetPageWidth',['../class_f_p_d_f.html#aff94ca35ad6b1f8b46e516e02ece074b',1,'FPDF']]],
+  ['getpermisos_11',['getPermisos',['../class_usuarios_model.html#a1c1a31114749be9d9d7b45ca205ace48',1,'UsuariosModel']]],
+  ['getprestamolibro_12',['getPrestamoLibro',['../class_prestamos_model.html#a4466b46aa782b32c141265fc3f92bab8',1,'PrestamosModel']]],
+  ['getprestamos_13',['getPrestamos',['../class_prestamos_model.html#acd9202ff331c88f7d2202736f0e6a175',1,'PrestamosModel']]],
+  ['getreportes_14',['getReportes',['../class_configuracion_model.html#a7b1ccb95e5cc3cf3efe6daf41ee1f6f8',1,'ConfiguracionModel']]],
+  ['getstringwidth_15',['GetStringWidth',['../class_f_p_d_f.html#a917770b3091e6b6ec88b0a01d987ae5d',1,'FPDF']]],
+  ['getusuario_16',['getUsuario',['../class_usuarios_model.html#ad49adefc18395a5dd1224fa752ae35ed',1,'UsuariosModel']]],
+  ['getusuarios_17',['getUsuarios',['../class_usuarios_model.html#a61303c148c15b6632aacf1857294b542',1,'UsuariosModel']]],
+  ['getverificarprestamos_18',['getVerificarPrestamos',['../class_configuracion_model.html#a1617310dcf1405a6d1a5ddab715d4292',1,'ConfiguracionModel']]],
+  ['getview_19',['getView',['../class_views.html#a1bf4f676d59f005b8220e51a77c09663',1,'Views']]],
+  ['getx_20',['GetX',['../class_f_p_d_f.html#a95399091cc57512472ac27cc258486fe',1,'FPDF']]],
+  ['gety_21',['GetY',['../class_f_p_d_f.html#a6677aaf0484d3b84549d26cd7506b3ca',1,'FPDF']]],
+  ['grafico_22',['grafico',['../class_configuracion.html#abf0aedcb1047bd225f49bb2a2c5c0865',1,'Configuracion']]]
+];
