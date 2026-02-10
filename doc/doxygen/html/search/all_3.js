@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['acceptpagebreak_0',['AcceptPageBreak',['../class_f_p_d_f.html#a04677ba6156d261fc1cbe51a3041eb24',1,'FPDF']]],
+  ['accionuser_1',['accionUser',['../class_usuarios_model.html#a4e409df3d604e85d763c4355232b229a',1,'UsuariosModel']]],
+  ['actualizar_2',['actualizar',['../class_configuracion.html#a8108d1d2459efc7e21d958ae07419126',1,'Configuracion']]],
+  ['actualizarautor_3',['actualizarAutor',['../class_autor_model.html#a2955cd8fc4e81b41f7255320a0c0ef2f',1,'AutorModel']]],
+  ['actualizarconfig_4',['actualizarConfig',['../class_configuracion_model.html#a332fa8d730c9d76ce1cc37401c8e960d',1,'ConfiguracionModel']]],
+  ['actualizareditorial_5',['actualizarEditorial',['../class_editorial_model.html#ad71b5fcfb8765e2794a91e74554f0ab2',1,'EditorialModel']]],
+  ['actualizarestudiante_6',['actualizarEstudiante',['../class_estudiantes_model.html#a4c93af858e45026c9dc224d6cf907e0b',1,'EstudiantesModel']]],
+  ['actualizarlibros_7',['actualizarLibros',['../class_libros_model.html#a2ac870804a89057f4b9cd6f91d04d687',1,'LibrosModel']]],
+  ['actualizarmateria_8',['actualizarMateria',['../class_materia_model.html#a583339612d12b6eb1a49b743a199fd49',1,'MateriaModel']]],
+  ['actualizarpass_9',['actualizarPass',['../class_usuarios_model.html#aa8d4de46a6505960533f5cb34088df6b',1,'UsuariosModel']]],
+  ['actualizarpermisos_10',['actualizarPermisos',['../class_usuarios_model.html#af4ac99c9bf7591bfb524b791fb46e44d',1,'UsuariosModel']]],
+  ['actualizarprestamo_11',['actualizarPrestamo',['../class_prestamos_model.html#a0daa77d47540b9bccd10b9423bcf78f4',1,'PrestamosModel']]],
+  ['addfont_12',['AddFont',['../class_f_p_d_f.html#a36ad2e708366944522515bab35ca9aea',1,'FPDF']]],
+  ['addglyph_13',['AddGlyph',['../class_t_t_f_parser.html#a1e0ab4e5f2ff8945f0b5c9b86b6c3742',1,'TTFParser']]],
+  ['addlink_14',['AddLink',['../class_f_p_d_f.html#ae5905a6270028a055eb4b7e6f3def713',1,'FPDF']]],
+  ['addpage_15',['AddPage',['../class_f_p_d_f.html#a1ff620a89941d86f370a48615efc7d9d',1,'FPDF']]],
+  ['admin_16',['admin',['../class_configuracion.html#a0418d22e14785132c232ef68a32d0659',1,'Configuracion']]],
+  ['aliasnbpages_17',['AliasNbPages',['../class_f_p_d_f.html#abaa0ba28883e13a200d33a0a765e5927',1,'FPDF']]],
+  ['autoload_2ephp_18',['Autoload.php',['../_autoload_8php.html',1,'']]],
+  ['autor_19',['Autor',['../class_autor.html',1,'']]],
+  ['autor_2ephp_20',['Autor.php',['../_autor_8php.html',1,'']]],
+  ['autormodel_21',['AutorModel',['../class_autor_model.html',1,'']]],
+  ['autormodel_2ephp_22',['AutorModel.php',['../_autor_model_8php.html',1,'']]]
+];
