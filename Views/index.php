@@ -37,6 +37,7 @@
                 <div class="form-group btn-container">
                     <button class="btn btn-primary btn-block" type="submit"><i class="fa fa-sign-in fa-lg fa-fw"></i>Login</button>
                 </div>
+                <p style="margin-top: 12px;">Documentacion <a href="./doc/phpDoc/">phpDoc</a> o <a href="./doc/doxygen/html/">Doxygen</a></p>
             </form>
         </div>
     </section>
